@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: chocolate;
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+h3 {
+    color: brown;
+    font-family: 'Roboto', sans-serif;
+}
+#bio-header{
+    color: brown;
+}
+#skills-header{
+    color: cornflowerblue;
+}
+
